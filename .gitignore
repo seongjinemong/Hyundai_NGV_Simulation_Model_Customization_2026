@@ -180,6 +180,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-ofc_simulation_RC.ipynb
+ofc_*
 
 .vscode
+
+logs*
+orderlog.txt
+test.py

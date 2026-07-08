@@ -1,3 +1,9 @@
+## 0. 기술 스택
+시뮬레이션을 만들 때 사용할 기술들의 집합
+- python, simpy, matplotlib, seaborn, numpy, pandas, scipy, statsmodels 등
+- numpy, pandas, matplotlib, seaborn의 경우 따로 명시하지 않아도 필요할 경우 자동으로 사용
+
+
 ## 1. 시뮬레이션 환경 및 기본 설정 (Environment)
 시뮬레이션의 기본 뼈대가 되는 시간 단위와 총 실행 시간을 명시해야 합니다.
 - 시간 단위: 시뮬레이션 내에서 숫자 1이 의미하는 바가 무엇인지 (예: 1분, 1초, 1시간)
